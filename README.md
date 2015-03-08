@@ -18,3 +18,11 @@
 
 1. [用Yeoman构建Angular项目](http://blog.javachen.com/2015/02/02/build-angularjs-app-with-yeomam "用Yeoman构建Angular项目") 
 2. [Angular 知识集合] (https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md "Angular 知识集合")
+3. 
+
+
+##工具知识集合
+
+###Notepad++
+1. [Notepad++快捷键](http://www.cnblogs.com/albert1017/archive/2012/08/09/2630405.html "Notepad++快捷键")
+2. 
