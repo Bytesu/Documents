@@ -21,6 +21,7 @@
 1. [用Yeoman构建Angular项目](http://blog.javachen.com/2015/02/02/build-angularjs-app-with-yeomam "用Yeoman构建Angular项目") 
 2. [Angular 知识集合] (https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md "Angular 知识集合")
 3. [Angularjs速查表](http://www.cheatography.com/proloser/cheat-sheets/angularjs/ "Angularjs速查表")
+4. [Angularjs PhoneCat代码分析](http://blog.javachen.com/2015/01/09/angular-phonecat-examples/ "Angularjs PhoneCat代码分析")
 
 
 ##工具知识集合
