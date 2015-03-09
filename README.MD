@@ -13,7 +13,9 @@
 2.  
 
 ##前端动画
-1.[Bounce.js快速创建漂亮的CSS3 动画效果](http://www.cnblogs.com/lhb25/p/create-tasty-css3-animations-time.html)
+1. [Bounce.js快速创建漂亮的CSS3 动画效果](http://www.cnblogs.com/lhb25/p/create-tasty-css3-animations-time.html)
+2. [Codrops 教程：基于 CSS3 的精美模态窗口效果](http://www.cnblogs.com/lhb25/p/special-effects-with-magic-css3-animations.html)
+
 
 
 
