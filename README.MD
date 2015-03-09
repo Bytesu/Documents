@@ -32,3 +32,9 @@
 
 ###有价值的站点
 1.Stackoverflow (http://stackoverflow.com/ "Stackoverflow")
+
+
+
+###模板引擎
+1.[Jade](http://jade-lang.com/)
+2.[EJS - 较单纯的填充数据的模板](http://www.embeddedjs.com/)
