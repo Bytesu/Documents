@@ -29,6 +29,9 @@
 ###Notepad++
 1. [Notepad++快捷键](http://www.cnblogs.com/albert1017/archive/2012/08/09/2630405.html "Notepad++快捷键")
 2. 
+###WebStorm
+1. [WebStorm快捷键](http://www.cnblogs.com/piaopiao7891/p/3577291.html)
+2. 
 
 ###有价值的站点
 1.Stackoverflow (http://stackoverflow.com/ "Stackoverflow")
