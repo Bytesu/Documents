@@ -12,6 +12,10 @@
 1.  [JavaScript严格模式](http://www.waylau.com/javascript-use-strict-mode/ "JavaScript严格模式")
 2.  
 
+##前端动画
+1.[Bounce.js快速创建漂亮的CSS3 动画效果](http://www.cnblogs.com/lhb25/p/create-tasty-css3-animations-time.html)
+
+
 
 ##HTML5
 1. [Can I use !](http://www.caniuse.com/ "Can I use !")
