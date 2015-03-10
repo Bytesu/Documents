@@ -24,7 +24,7 @@ Seajs开发JavaScript的基本原则：一切皆为模块
 
 
 ##滚动条
-1. [perfect-scrollbar](http://www.yyyweb.com/demo/inner-show/perfect-scrollbar.html)
+1. [perfect-scrollbar](http://noraesae.github.io/perfect-scrollbar/)
 
 ##KISS
 KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
