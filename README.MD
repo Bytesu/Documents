@@ -10,7 +10,11 @@
 ##JavaScript精华总结
 
 1.  [JavaScript严格模式](http://www.waylau.com/javascript-use-strict-mode/ "JavaScript严格模式")
-2.  
+
+##JS模块加载框架
+###Sea.js
+1.  [5分钟上手Sea.js](http://seajs.org/docs/#quick-start)
+2.  [使用SeaJS实现模块化JavaScript开发](http://blog.codinglabs.org/articles/modularized-javascript-with-seajs.html)
 
 ##前端动画
 1. [Bounce.js快速创建漂亮的CSS3 动画效果](http://www.cnblogs.com/lhb25/p/create-tasty-css3-animations-time.html)
