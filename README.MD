@@ -40,7 +40,9 @@
 2. 
 
 ###有价值的站点
-1.Stackoverflow (http://stackoverflow.com/ "Stackoverflow")
+1. [Stackoverflow] (http://stackoverflow.com/ "Stackoverflow")
+2. [百度静态资源公共库](http://cdn.code.baidu.com/)
+
 
 
 
