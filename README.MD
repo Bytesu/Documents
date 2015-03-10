@@ -16,6 +16,7 @@
 Seajs开发JavaScript的基本原则：一切皆为模块  
 1.  [5分钟上手Sea.js](http://seajs.org/docs/#quick-start)
 2.  [使用SeaJS实现模块化JavaScript开发](http://blog.codinglabs.org/articles/modularized-javascript-with-seajs.html)
+3.  [seajs进阶](http://blog.csdn.net/it_man/article/details/8482633)
 
 ##JS框架
 1. [Vanilla JS世界上最轻量的JavaScript框架(没有之一)](http://segmentfault.net/blog/news/1190000000355277)
