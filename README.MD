@@ -13,15 +13,17 @@
 
 ##JS模块加载框架
 ###Sea.js
-**Seajs开发JavaScript的基本原则：一切皆为模块**
+Seajs开发JavaScript的基本原则：一切皆为模块  
 1.  [5分钟上手Sea.js](http://seajs.org/docs/#quick-start)
 2.  [使用SeaJS实现模块化JavaScript开发](http://blog.codinglabs.org/articles/modularized-javascript-with-seajs.html)
+
 
 ##前端动画
 1. [Bounce.js快速创建漂亮的CSS3 动画效果](http://www.cnblogs.com/lhb25/p/create-tasty-css3-animations-time.html)
 2. [Codrops 教程：基于 CSS3 的精美模态窗口效果](http://www.cnblogs.com/lhb25/p/special-effects-with-magic-css3-animations.html)
 
-
+##KISS
+KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 
 
 ##HTML5
