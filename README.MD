@@ -73,3 +73,4 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 ### Nodejs 
 1. [Nodejs 开发详解](www.tup.tsinghua.edu.cn/Resource/tsyz/056313-01.pdf)
 2. [Fds-给前端用的服务器](http://www.slideshare.net/xiaojueqq12345/fds-34011400)
+3. [FDS-server](http://fd-server.org/)
