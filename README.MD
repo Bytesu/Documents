@@ -67,3 +67,8 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 ###模板引擎
 1.[Jade](http://jade-lang.com/)
 2.[EJS - 较单纯的填充数据的模板](http://www.embeddedjs.com/)
+
+
+
+### Nodejs 
+1. [Nodejs 开发详解](www.tup.tsinghua.edu.cn/Resource/tsyz/056313-01.pdf)
