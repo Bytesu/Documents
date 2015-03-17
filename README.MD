@@ -45,6 +45,7 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 3. [Angularjs速查表](http://www.cheatography.com/proloser/cheat-sheets/angularjs/ "Angularjs速查表")
 4. [Angularjs PhoneCat代码分析](http://blog.javachen.com/2015/01/09/angular-phonecat-examples/ "Angularjs PhoneCat代码分析")
 5. [RequireJS与AngularJS的集成](http://segmentfault.com/blog/moejser/1190000000492238)
+6. [12-实现动画](http://www.dainiao.net/archives/605)
 
 ##工具知识集合
 
