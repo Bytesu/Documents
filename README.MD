@@ -24,8 +24,8 @@ Seajs开发JavaScript的基本原则：一切皆为模块
 
 
 ##前端动画
-1. [Bounce.js快速创建漂亮的CSS3 动画效果](http://www.cnblogs.com/lhb25/p/create-tasty-css3-animations-time.html)
-2. [Codrops 教程：基于 CSS3 的精美模态窗口效果](http://www.cnblogs.com/lhb25/p/special-effects-with-magic-css3-animations.htm
+1. [Bounce.js快速创建漂亮的CSS3 动画效果](http://www.cnblogs.com/lhb25/p/create-tasty-css3-animations-time.html) 
+2. [Codrops教程:基于CSS3的精美模态窗口效果](http://www.cnblogs.com/lhb25/p/special-effects-with-magic-css3-animations.htm)
 
 
 ##滚动条
@@ -60,7 +60,8 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 2. [百度静态资源公共库](http://cdn.code.baidu.com/)
 
 
-
+### CSS 
+1.[Compass用法指南](http://www.ruanyifeng.com/blog/2012/11/compass.html)
 
 ###模板引擎
 1.[Jade](http://jade-lang.com/)
