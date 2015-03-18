@@ -77,3 +77,4 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 3. [FDS-server](http://fd-server.org/)
 4. [URL模块](http://0532.gitbooks.io/nodejs/content/url/README.html)
 5. [简单NodeJS负载均衡(逐次对多个node进程的HTTP代理)](http://blog.eisneim.com/articles/2014-12-3-nodejs_load_banlancer_using_http_proxy.html)
+6. [用NodeJS打造你的静态文件服务器](https://cnodejs.org/topic/4f16442ccae1f4aa27001071)
