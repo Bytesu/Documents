@@ -12,8 +12,7 @@
 1.  [JavaScript严格模式](http://www.waylau.com/javascript-use-strict-mode/ "JavaScript严格模式")
 
 ##JS模块加载框架
-###Sea.js
-Seajs开发JavaScript的基本原则：一切皆为模块  
+###Sea.js:一切皆为模块
 1. [5分钟上手Sea.js](http://seajs.org/docs/#quick-start) 
 2. [使用SeaJS实现模块化JavaScript开发](http://blog.codinglabs.org/articles/modularized-javascript-with-seajs.html) 
 3. [seajs进阶](http://blog.csdn.net/it_man/article/details/8482633)
