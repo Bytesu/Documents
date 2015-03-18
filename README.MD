@@ -50,8 +50,9 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 ##工具知识集合
 
 ###Notepad++
-1. [Notepad++快捷键](http://www.cnblogs.com/albert1017/archive/2012/08/09/2630405.html "Notepad++快捷键")
-2. 
+1. [Notepad++快捷键](http://www.cnblogs.com/albert1017/archive/2012/08/09/2630405.html "Notepad++快捷键")  
+
+    
 ###WebStorm
 1. [WebStorm快捷键](http://www.cnblogs.com/piaopiao7891/p/3577291.html)
 2. 
