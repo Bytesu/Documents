@@ -61,6 +61,7 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 2. [百度静态资源公共库](http://cdn.code.baidu.com/)
 3. [GitBook](https://www.gitbook.com/search?q=language%3Azh)
 4. [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
+5. [whatwg](https://fetch.spec.whatwg.org/#origin-header)
 
 
 ### CSS 
