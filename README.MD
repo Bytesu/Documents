@@ -47,6 +47,7 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 6. [12-实现动画](http://www.dainiao.net/archives/605)
 7. [Angularjs 范例程序](http://www.ngnice.com/showcase/#/home/home)
 8. [使用超动感HTML & JS开发WEB应用!](http://www.angularjs.cn/A08q)
+9. [Angular通过CORS实现跨域方案](http://my.oschina.net/blogshi/blog/303758)
 
 ##工具知识集合
 
