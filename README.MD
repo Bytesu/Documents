@@ -46,6 +46,7 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 5. [RequireJS与AngularJS的集成](http://segmentfault.com/blog/moejser/1190000000492238)
 6. [12-实现动画](http://www.dainiao.net/archives/605)
 7. [Angularjs 范例程序](http://www.ngnice.com/showcase/#/home/home)
+8. [使用超动感HTML & JS开发WEB应用!](http://www.angularjs.cn/A08q)
 
 ##工具知识集合
 
