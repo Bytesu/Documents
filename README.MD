@@ -64,6 +64,7 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 3. [GitBook](https://www.gitbook.com/search?q=language%3Azh)
 4. [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
 5. [whatwg](https://fetch.spec.whatwg.org/#origin-header)
+6. [MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
 
 
 ### CSS 
