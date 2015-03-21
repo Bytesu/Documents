@@ -51,6 +51,8 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 10. [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
 11. [Angular风格指南](https://github.com/johnpapa/angular-styleguide/blob/master/i18n/zh-CN.md)
 12. [AngularJS应用开发思维之3：依赖注入](http://www.cnblogs.com/xuema/p/4346334.html)
+13. [angular-ngSanitize模块-$sanitize服务详解](http://www.cnblogs.com/liulangmao/p/4108255.html)
+14. [angular V2.0](https://drive.google.com/drive/u/0/#folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk)
 
 ##工具知识集合
 
