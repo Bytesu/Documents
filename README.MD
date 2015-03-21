@@ -1,17 +1,15 @@
-技术搜集集合
-=========
-
-主要存放自己的一些文档记录，包括一些工具的使用或者一些自己的经验累计，不过怎么看都像应该存放在blog中的内容呢
 
 
-
-
-
-##JavaScript精华总结
-
+*存放优秀Blog*
+  
+##JavaScript精华贴
+***
 1.  [JavaScript严格模式](http://www.waylau.com/javascript-use-strict-mode/ "JavaScript严格模式")
+2.  
 
+     
 ##JS模块加载框架
+
 ###Sea.js:一切皆为模块
 1. [5分钟上手Sea.js](http://seajs.org/docs/#quick-start) 
 2. [使用SeaJS实现模块化JavaScript开发](http://blog.codinglabs.org/articles/modularized-javascript-with-seajs.html) 
@@ -31,7 +29,8 @@
 1. [perfect-scrollbar](http://noraesae.github.io/perfect-scrollbar/)
 
 ##KISS
-KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
+*KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事*
+
 
 
 ##HTML5
@@ -40,7 +39,7 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 ##Angular 知识总结
 
 1. [用Yeoman构建Angular项目](http://blog.javachen.com/2015/02/02/build-angularjs-app-with-yeomam "用Yeoman构建Angular项目") 
-2. [Angular 知识集合] (https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md "Angular 知识集合")
+2. [Angular 知识集合](https://github.com/jmcunningham/AngularJS-Learning/blob/master/ZH-CN.md)
 3. [Angularjs速查表](http://www.cheatography.com/proloser/cheat-sheets/angularjs/ "Angularjs速查表")
 4. [Angularjs PhoneCat代码分析](http://blog.javachen.com/2015/01/09/angular-phonecat-examples/ "Angularjs PhoneCat代码分析")
 5. [RequireJS与AngularJS的集成](http://segmentfault.com/blog/moejser/1190000000492238)
@@ -53,8 +52,18 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 12. [AngularJS应用开发思维之3：依赖注入](http://www.cnblogs.com/xuema/p/4346334.html)
 13. [angular-ngSanitize模块-$sanitize服务详解](http://www.cnblogs.com/liulangmao/p/4108255.html)
 14. [angular V2.0](https://drive.google.com/drive/u/0/#folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk)
+15. [Angularjs Controller 间通信机制](http://www.cnblogs.com/whitewolf/archive/2013/04/16/3024843.html)
+16. [随笔分类 -AngularJs](http://www.cnblogs.com/whitewolf/category/404298.html)
 
-##工具知识集合
+
+#工具
+1. [墨刀-移动应用原型工具](https://xn--ebr05n.com/)
+
+
+##JavaScript 测试
+1. [Karma和Jasmine自动化单元测试](http://blog.fens.me/nodejs-karma-jasmine/)
+
+
 
 ###Notepad++
 1. [Notepad++快捷键](http://www.cnblogs.com/albert1017/archive/2012/08/09/2630405.html "Notepad++快捷键")  
@@ -73,8 +82,8 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 6. [MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
 
 
-### CSS 
-1.[Compass用法指南](http://www.ruanyifeng.com/blog/2012/11/compass.html)
+###CSS 
+1. [Compass用法指南](http://www.ruanyifeng.com/blog/2012/11/compass.html)
 
 ###模板引擎
 1. [Jade](http://jade-lang.com/) 
@@ -94,4 +103,5 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 #移动框架
 ##Ionic
 1.[Ionic](http://ionicframework.com/)
+2.[PhoneGap](http://phonegap.com/)
 
