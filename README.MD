@@ -102,6 +102,6 @@
   
 #移动框架
 ##Ionic
-1.[Ionic](http://ionicframework.com/)
-2.[PhoneGap](http://phonegap.com/)
+1. [Ionic](http://ionicframework.com/)
+2. [PhoneGap](http://phonegap.com/)
 
