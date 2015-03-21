@@ -50,6 +50,7 @@ KISS(Keep It Simple, Stupid)原则精髓：仅做一件事，做好一件事
 9. [Angular通过CORS实现跨域方案](http://my.oschina.net/blogshi/blog/303758)
 10. [HTTP访问控制(CORS)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
 11. [Angular风格指南](https://github.com/johnpapa/angular-styleguide/blob/master/i18n/zh-CN.md)
+12. [AngularJS应用开发思维之3：依赖注入](http://www.cnblogs.com/xuema/p/4346334.html)
 
 ##工具知识集合
 
