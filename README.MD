@@ -121,4 +121,5 @@
 
 #Linux
 ##Ubuntu
-1.[ubuntu](http://linux.ubuntu.org.cn/)
+1. [ubuntu](http://linux.ubuntu.org.cn/)
+2. [鳥哥的 Linux 私房菜 - 基礎學習篇目錄](http://linux.vbird.org/linux_basic/)
