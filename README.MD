@@ -71,9 +71,13 @@
 
 
 ###Notepad++
-1. [Notepad++快捷键](http://www.cnblogs.com/albert1017/archive/2012/08/09/2630405.html "Notepad++快捷键")
-###WebStorm
+1. [Notepad++快捷键](http://www.cnblogs.com/albert1017/archive/2012/08/09/2630405.html "Notepad++快捷键")  
+2. 
+  
+###WebStorm  
 1. [WebStorm快捷键](http://www.cnblogs.com/piaopiao7891/p/3577291.html)
+2. 
+  
 ###Vim 
 1. [Vim](http://wiki.ubuntu.org.cn/Vim)
 
@@ -114,3 +118,7 @@
 ##Nginx
 1.[Nginx](http://wiki.ubuntu.org.cn/Nginx#.E5.90.AF.E5.8A.A8nginx)
 ##Nodejs
+
+#Linux
+##Ubuntu
+1.[ubuntu](http://linux.ubuntu.org.cn/)
