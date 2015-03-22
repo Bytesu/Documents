@@ -56,7 +56,10 @@
 16. [随笔分类 -AngularJs](http://www.cnblogs.com/whitewolf/category/404298.html)
 
 #微信开发
-1.[JCWX](https://github.com/JamesYing/JCWX)
+1. [JCWX](https://github.com/JamesYing/JCWX)
+2. [微信JS-SDK 官方Demo](http://demo.open.weixin.qq.com/jssdk/#menu-share)
+3. [微信JS-SDK官方说明文档](http://mp.weixin.qq.com/wiki/7/aaa137b55fb2e0456bf8dd9148dd613f.html#.E8.8E.B7.E5.8F.96.E2.80.9C.E5.88.86.E4.BA.AB.E5.88.B0.E6.9C.8B.E5.8F.8B.E5.9C.88.E2.80.9D.E6.8C.89.E9.92.AE.E7.82.B9.E5.87.BB.E7.8A.B6.E6.80.81.E5.8F.8A.E8.87.AA.E5.AE.9A.E4.B9.89.E5.88.86.E4.BA.AB.E5.86.85.E5.AE.B9.E6.8E.A5.E5.8F.A3)
+
 
 #工具
 1. [墨刀-移动应用原型工具](https://xn--ebr05n.com/)
