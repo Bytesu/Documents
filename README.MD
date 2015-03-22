@@ -75,7 +75,7 @@
 ###WebStorm
 1. [WebStorm快捷键](http://www.cnblogs.com/piaopiao7891/p/3577291.html)
 ###Vim 
-1. [Vim用户操作指南](http://wiki.ubuntu.org.cn/Vim%E7%94%A8%E6%88%B7%E6%93%8D%E4%BD%9C%E6%8C%87%E5%8D%97)
+1. [Vim](http://wiki.ubuntu.org.cn/Vim)
 
 ###有价值的站点
 1. [Stackoverflow] (http://stackoverflow.com/ "Stackoverflow")
