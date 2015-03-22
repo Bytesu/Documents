@@ -110,3 +110,8 @@
 1. [Ionic](http://ionicframework.com/)
 2. [PhoneGap](http://phonegap.com/)
 
+
+#服务器
+##Nginx
+1.[Nginx](http://wiki.ubuntu.org.cn/Nginx#.E5.90.AF.E5.8A.A8nginx)
+##Nodejs
