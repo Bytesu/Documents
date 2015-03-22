@@ -55,6 +55,8 @@
 15. [Angularjs Controller 间通信机制](http://www.cnblogs.com/whitewolf/archive/2013/04/16/3024843.html)
 16. [随笔分类 -AngularJs](http://www.cnblogs.com/whitewolf/category/404298.html)
 
+#微信开发
+1.[JCWX](https://github.com/JamesYing/JCWX)
 
 #工具
 1. [墨刀-移动应用原型工具](https://xn--ebr05n.com/)
