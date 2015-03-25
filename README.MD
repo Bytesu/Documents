@@ -54,6 +54,7 @@
 14. [angular V2.0](https://drive.google.com/drive/u/0/#folders/0B7Ovm8bUYiUDR29iSkEyMk5pVUk)
 15. [Angularjs Controller 间通信机制](http://www.cnblogs.com/whitewolf/archive/2013/04/16/3024843.html)
 16. [随笔分类 -AngularJs](http://www.cnblogs.com/whitewolf/category/404298.html)
+17. [Introducatoin](http://checkcheckzz.gitbooks.io/angularjs-learning-notes/content/index.html)
 
 #微信开发
 1. [JCWX](https://github.com/JamesYing/JCWX)
@@ -77,7 +78,7 @@
 ###WebStorm  
 1. [WebStorm快捷键](http://www.cnblogs.com/piaopiao7891/p/3577291.html)
 2. 
-  
+
 ###Vim 
 1. [Vim](http://wiki.ubuntu.org.cn/Vim)
 
