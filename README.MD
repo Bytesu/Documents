@@ -55,6 +55,7 @@
 15. [Angularjs Controller 间通信机制](http://www.cnblogs.com/whitewolf/archive/2013/04/16/3024843.html)
 16. [随笔分类 -AngularJs](http://www.cnblogs.com/whitewolf/category/404298.html)
 17. [Introducatoin](http://checkcheckzz.gitbooks.io/angularjs-learning-notes/content/index.html)
+18. [AngularJS select详细用法](http://my.oschina.net/gejiawen0913/blog/188539)
 
 #微信开发
 1. [JCWX](https://github.com/JamesYing/JCWX)
