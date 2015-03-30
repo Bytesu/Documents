@@ -90,6 +90,7 @@
 4. [Web 技术文档](https://developer.mozilla.org/zh-CN/docs/Web)
 5. [whatwg](https://fetch.spec.whatwg.org/#origin-header)
 6. [MDN](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Access_control_CORS)
+7. [div.io](http://div.io/digg)
 
 
 ###CSS 
