@@ -56,6 +56,7 @@
 16. [随笔分类 -AngularJs](http://www.cnblogs.com/whitewolf/category/404298.html)
 17. [Introducatoin](http://checkcheckzz.gitbooks.io/angularjs-learning-notes/content/index.html)
 18. [AngularJS select详细用法](http://my.oschina.net/gejiawen0913/blog/188539)
+19. [AngularJS学习笔记 - 进出自由,我的分享](http://www.zouyesheng.com/angular.html)
 
 #微信开发
 1. [JCWX](https://github.com/JamesYing/JCWX)
