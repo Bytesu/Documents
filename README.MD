@@ -57,6 +57,7 @@
 17. [Introducatoin](http://checkcheckzz.gitbooks.io/angularjs-learning-notes/content/index.html)
 18. [AngularJS select详细用法](http://my.oschina.net/gejiawen0913/blog/188539)
 19. [AngularJS学习笔记 - 进出自由,我的分享](http://www.zouyesheng.com/angular.html)
+20. [AngularJS 拦截器和好棒例子](http://my.oschina.net/ilivebox/blog/290881)
 
 #微信开发
 1. [JCWX](https://github.com/JamesYing/JCWX)
