@@ -117,6 +117,7 @@
 ##Ionic
 1. [Ionic](http://ionicframework.com/)
 2. [PhoneGap](http://phonegap.com/)
+3. [使用Ionic + Apache Cordova开发跨平台混合型的移动应用](http://blog.csdn.net/zoutongyuan/article/details/41910903)
 
 
 #服务器
