@@ -21,3 +21,4 @@
 19. [AngularJS学习笔记 - 进出自由,我的分享](http://www.zouyesheng.com/angular.html)
 20. [AngularJS 拦截器和好棒例子](http://my.oschina.net/ilivebox/blog/290881)
 21. [Angular 移动端权威指南](http://azzfun.net/2014/12/17/%E7%A7%BB%E5%8A%A8%E7%AB%AF%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97/)
+22. [The Definitive Guide to Angular on Mobile](http://www.ng-newsletter.com/posts/angular-on-mobile.html)
