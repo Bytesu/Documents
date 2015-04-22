@@ -24,6 +24,7 @@
 22. [The Definitive Guide to Angular on Mobile](http://www.ng-newsletter.com/posts/angular-on-mobile.html)
 23. [创建平滑的Angular 应用](http://zoujie.me/articles/create-smooth-angularjs-app)
 24. [学习 ui-router - 路由控制](http://bubkoo.com/2014/01/02/angular/ui-router/guide/url-routing/)
+25. [AngularJS去掉的URL里的#号](http://blog.fens.me/angularjs-url/)
 
 ###指令
 1. [AngualrJS指令编写实用指南](http://www.html-js.com/article/A-practical-guide-to-the-development-of-web-application-written-using-Angular-AngualrJS-instruction-two)
