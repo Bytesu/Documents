@@ -28,3 +28,7 @@
 ###指令
 1. [AngualrJS指令编写实用指南](http://www.html-js.com/article/A-practical-guide-to-the-development-of-web-application-written-using-Angular-AngualrJS-instruction-two)
 2. [走进AngularJs(五)自定义指令](http://www.cnblogs.com/lvdabao/p/3407424.html)
+
+###异常
+1. [Better Error Handling In AngularJS](http://odetocode.com/blogs/scott/archive/2014/04/21/better-error-handling-in-angularjs.aspx)
+2. [AngularJS 异常处理](http://blog.inching.org/2015/01/08/angular-exception/)
